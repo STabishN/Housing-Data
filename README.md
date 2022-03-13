@@ -1,5 +1,5 @@
 # Housing-Data
-## Tasks Carried out
+## Cleaning Data steps
 1. Standardize Date Format
 
 2. Populate property address (Join duplicated rows to a single column)
